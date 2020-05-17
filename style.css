@@ -1,0 +1,21 @@
+header{
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 30px;
+    text-align: center;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(to right, red , yellow);
+
+}
+
+#body{
+    padding-top: 100px;
+    text-align: center;
+}
+#color1,#color2{
+    margin: 20px;
+}
